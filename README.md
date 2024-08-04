@@ -48,6 +48,7 @@
         <h3>CREATIVE DIGITAL AGECYTIVE DIGITAL AGENCY</h3>
     </div>
     <div class="TEAM">
+        
         <div class="container-box">
         <div class="container-image">
            <img src=".FLILE/team.jpg" alt="team mangament">
